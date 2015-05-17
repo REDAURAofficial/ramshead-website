@@ -1,0 +1,115 @@
+
+categories:
+	home
+	about
+	season
+	archives
+	links
+	contact
+	
+general design:
+	-page centered
+	-dark grey background
+	-Ram's banner near top (some padding) in black field
+		-separated from main bar w/some grey space
+		-linked to home
+	-black navtabs (maybe some red highlight on mouseover)
+		-white text, standard widths with some space on right
+	-white body
+	BANNER --> need to think about noscript versions
+	TEXT
+	-footer bar (black) at bottom w/slight padding beneath
+	
+home page:
+	-rotating banner script
+		-should make script that allows webmaster to just drop in new photos-- no editing needed
+		-should be set off from sides with small white border
+		
+	-Welcome section
+	-"on stage" bar (left)
+	-news bar (right) (maybe light grey background?)
+		-@top, rss button, facebook button, etc.
+		-links to more info about news items
+		-maybe include other theater group productions?
+		-incorporate with sica site, drama?
+
+about:
+	-banner: old ram's picture?
+	
+	-brief About section (including mention of upcoming anniversary)
+	-set of links to more info:
+		-history
+		-policies
+		-faq
+		-people
+		-tech
+		-alums
+	(incorporate sections into site, or link to new pages?)
+
+shows:
+	-current show banner ad/pictures
+	
+	-listing of season info for shows (in order)
+		-synopsis
+		-show dates
+		-tix link
+		-show site link
+		-link to "participate" page
+		-producer email
+	-solicitation of new ideas for shows/coproductions
+
+archives:
+	-banner: ?
+	
+	-some intro text
+	-links to "gaieties," "original winter one acts," "spring show," and "sponge" (?)
+		-HOW TO DISPLAY SHOWS (cooliris-style poster flipthrough? -->noscript difficulties)
+			-avoid a long listing
+	-gaieties section should solicit additional information
+	
+	past show info page:
+		-(same banner as archive page)
+		-(left) show poster
+		-(right) info
+			-title + year + dates, etc.
+			-synopsis
+			-site link?
+			-production staff/writers/other people
+			-script (for gaieties and available OWOA shows)
+				-copyright notice (or CC if we say so)
+			-
+			
+links:
+	-banner: ?
+	
+	-(links in sections)
+	-Stanford theater groups
+	-Stanford links in general
+	-other school's student groups
+	-local professional groups
+	-online theater resources
+	
+contact:
+	-banner: ?
+	
+	-board
+	-producers
+	-webmaster           --> all of these should be provided by a centralized script based upon a contact info txt file
+	-archivist
+	-tech contact
+	
+	
+secret members page (?- will people honestly use this?):
+	-banner: something clever
+	
+	-require auth to get in (can we auto-update this based on email addresses or something?)
+	-links to sections:
+		-board (extra auth for board members)
+			-make it a document drop for budget archives, current show info, etc.
+		-producers
+			-handbook
+		-tech (?- here or on tech page)
+			-tech handbook
+			-handbooks for individual positions
+			-link to request editing permission
+		-actors/pit?

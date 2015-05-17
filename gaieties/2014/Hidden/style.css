@@ -1,0 +1,10 @@
+body {padding-top: 20px;padding-bottom: 40px;background: black;color: white;	font-family: Verdana, Helvetica, sans-serif;}/* Custom container */.container-narrow {margin: 0 auto;max-width: 1000px;text-align: center;}.container-narrow > hr {margin: 3px auto;}/* Navigation Bar */#navi ul {list-style-type: none;overflow: hidden;margin: 0;padding: 0;width: 80%;display:inline-block;}#navi li {display: inline;padding: 0px;float: left;width: 20%;}#navi a:link, a:visited {display: block;width: 120px;font-weight: bold;color: #E8E8E8;background-color: #000000;text-align: center;padding: 2px;text-decoration: none;text-transform: uppercase;font-size:small;}#navi a:hover, a:active {background-color: #FF0000;color: #000000;}
+#navibar {
+	width: 800px ;
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+/* Main marketing message and sign up button */.jumbotron {margin: 15px 0;text-align: center;}.jumbotron h1 {font-size: 50px;line-height: 1;margin-top: 0;}.jumbotron h2 {font-size: 35px;line-height: 1;margin-bottom: 0;padding-bottom: 0;}.jumbotron .btn {font-size: 21px;padding: 14px 24px;}/* Company bios *//* Supporting marketing content */#logo {width:40%;}a {color:#D0A760;text-decoration:none;}#footer {color: #FFFFFF;text-align: center;font-size: 10px;	
+
+}

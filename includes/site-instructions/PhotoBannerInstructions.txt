@@ -1,0 +1,11 @@
+Instructions for Adding Photos to the Homepage Banner
+
+Format
+1. All photos must be resized to 960 by 300 pixels and saved as JPEGs.
+2. Photos should be named as banner-#.jpg, with # starting at 0 and sequentially numbering to the last photo.  The number has no effect on the order in which it is displayed (that has been randomized).  It in important that there are no gaps in the numbering.
+3. Photos should be uploaded to /WWW/includes/image/banner.
+
+Control
+1. The display and rotation of photos is controlled by the Javascript rotate.js, which can be found in /WWW/includes/script/js.
+2. The variable "npics" must be updated to reflect the number of pictures for display in the includes/image/banner folder.  This is the total number of pictures; since we started numbering the photos at 0, it should be one higher than the name of the last photo (i.e. if the last photo is banner-29.jpg, you have 30 pictures and should set var npics = 30;).
+3. Other variables to note are "timeout", which is how long each picture is display (in milliseconds) and "fade", which is the amount of time it takes to fade between photos (in seconds).

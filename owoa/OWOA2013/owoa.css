@@ -1,0 +1,200 @@
+body {
+text-align:center;
+background-image:url("imgs/background.png");
+background-color:#043762;
+/*width:900px*/
+margin-left: 100px;
+margin-right: 100px;
+font-family: "Berlin Sans FB Demi";
+}
+
+#main {
+  text-align:center;
+}
+
+h1 {
+  font-family:"Berlin Sans FB Demi";
+  color:#2fa0fe;
+  text-align:center;
+  font-size:60px;
+}
+
+h2 {
+  font-family:"Berlin Sans FB Demi";
+  color:#2fa0fe;
+  text-align:center;
+  font-size:30px;
+}
+
+h3 {
+  font-family:"Berlin Sans FB Demi";
+  color:#2fa0fe;
+  text-align:center;
+  font-size:30px;
+}
+
+h6 {
+  font-family:"Berlin Sans FB Demi";
+  color:#2fa0fe;
+  font-size:20px;
+}
+
+p {
+  font-family:"Berlin Sans FB Demi";
+  color:#2fa0fe;
+  font-size:20px;
+  font-weight:bold;
+  text-align:center;
+  width:inherit;
+}
+
+a {
+  color:#2fa0fe;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#aaaaff;
+  text-decoration: underline;
+}
+
+a:visited {
+  color:#aaaaff;
+  text-decoration:none;
+}
+
+tbody {
+  font-family:"Berlin Sans FB Demi";
+  color:#eeccef;
+  font-size:20px;
+  text-align:center;
+}
+
+.play-descriptions {
+  background-color:inherit;
+  width:900px;
+}
+
+.about {
+  width:900px;
+}
+
+.bio {
+	display:inline;
+	width: 400;
+	margin-bottom: 0em;
+	margin-left: 100px;
+  margin-right: 100px;
+}
+
+.author {
+  display:inline;
+  font-size:15px;
+  font-style:italic;
+  color:inherit;
+}
+
+#footer {
+	height: 10px;
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	color: #2fa0fe;
+}
+
+/* Colors for plays */
+#ipg { color: #4e8e14; }
+#uc { color: #cc9400; }
+#rails { color:#ff3f12; }
+#drp { color:#eeccef; }
+
+/****************************
+ *Tabbed Box, adapted from 
+ *http://net.tutsplus.com/tutorials/html-css-techniques/how-to-create-a-slick-tabbed-content-area/ 
+ ***************************/
+
+#tabbed_box {
+	margin: 0px auto 0px auto;
+}
+
+.tabbed_area {
+	border:1px solid #494e52;
+	background-color:#555555;
+	width:800px;
+	padding:8px;
+}
+
+ul.tabs {
+	margin:0px; padding:0px;
+	margin-top:5px;
+	margin-bottom:6px;
+}
+
+ul.tabs li {
+	list-style:none;
+	font-family: "Berlin Sans FB Demi";
+	display:inline;
+}
+ul.tabs li a {
+	background-color:#043762;
+	color:#ffebb5;
+	padding:6px 14px 6px 14px;
+	text-decoration:none;
+	font-size:15px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border:1px solid #464c54;
+	font-family: "Berlin Sans FB Demi";
+}
+ul.tabs li a:hover {
+	background-color:#2f343a;
+	border-color:#2f343a;
+	font-family: "Berlin Sans FB Demi";
+}
+ul.tabs li a.active {
+	background-color:#2fa0fe;
+	color:#043762;
+	border:1px solid #464c54;
+	font-family: "Berlin Sans FB Demi";
+	border-bottom: 1px solid #ffffff;
+}
+.content {
+	background-color:#043762;
+	padding:10px;
+	border:1px solid #464c54;
+}
+
+#content_2, #content_3, #content_4, #content_5 { display:none; }
+
+.content ul {
+	margin:0px;
+	padding:0px 20px 0px 20px;
+}
+
+/*Navigation largely taken from Ram's head site*/
+#nav {
+	text-align: center;
+	margin: 0.5em 0em 0.7em;
+	padding: 0;
+}
+
+#nav li {
+	list-style-type: none;
+	display: inline;
+	background-color: #2fa0fe;
+	padding:3px 0px;
+}
+
+#nav li:hover {
+	color: #2fa0fe;
+	background-color: #0000ff;
+}
+#nav li a {
+	color:inherit;
+	display: inline-block;
+	width: 10em;
+}
+
+#nav li:first-child {
+	border: 0px none;
+}

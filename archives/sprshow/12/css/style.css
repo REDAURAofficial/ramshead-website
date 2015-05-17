@@ -1,0 +1,423 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #e4c491;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+body {
+  background: black;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.3;
+  min-width: 960px;
+}
+.centerAlign {
+  text-align: center;
+}
+.clearFix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+/* PageHeader */
+#PageHeader {
+  height: 273px;
+  position: relative;
+}
+#PageHeader > div {
+  height: 273px;
+}
+#PageHeader .leftBG {
+  background: url(../images/header-left.png);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 480px;
+  z-index: 1;
+}
+#PageHeader .rightBG {
+  background: url(../images/header-right.png);
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 480px;
+  z-index: 1;
+}
+#PageHeader .logo {
+  background: url(../images/header-logo.png);
+  left: 50%;
+  margin-left: -230px;
+  position: absolute;
+  top: 0;
+  width: 460px;
+  z-index: 3;
+}
+/* PageNavbar */
+#PageNavbar {
+  margin: 0 auto 0;
+  width: 960px;
+}
+#PageNavbar ul {
+  margin: 0;
+  padding: 0;
+}
+#PageNavbar li {
+  float: left;
+  width: 16.7%;
+}
+#PageNavbar li a {
+  background: black;
+  border-radius: 5px 5px 0 0;
+  box-shadow: inset 0 1px 0 #999;
+  display: block;
+  color: white;
+  cursor: pointer;
+  font-weight: 300;
+  letter-spacing: 1px;
+  padding: 15px 0;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+#PageNavbar li:hover a {
+  background: #333;
+}
+#PageNavbar li.selected a {
+  background: #440044;
+  box-shadow: inset 0 1px 0 #bb77bb;
+  text-shadow: 0 -1px 0 #110011;
+}
+/* PageContent */
+#PageContent {
+  background: white;
+  -webkit-border-radius: 0 0 3px 3px;
+  -moz-border-radius: 0 0 3px 3px;
+  border-radius: 0 0 3px 3px;
+  border-top: 1px solid #ccc;
+  box-shadow: inset 0 1px 3px #999;
+  color: black;
+  margin: 0 auto;
+  padding: 30px;
+  width: 898px;
+}
+#PageContent h1.auditions {
+  background: url(../images/section-heading-auditions.png);
+  height: 27px;
+  width: 146px;
+}
+#PageContent h1.auditions span {
+  display: none;
+}
+#PageContent h1.synopsis {
+  background: url(../images/section-heading-synopsis.png);
+  height: 27px;
+  width: 131px;
+}
+#PageContent h1.synopsis span {
+  display: none;
+}
+#PageContent h1.performanceDates {
+  background: url(../images/section-heading-performance-dates.png);
+  height: 27px;
+  width: 292px;
+}
+#PageContent h1.performanceDates span {
+  display: none;
+}
+#PageContent .section {
+  margin-bottom: 30px;
+}
+#PageContent .section:last-child, #PageContent .section:last-child p {
+  margin-bottom: 0;
+}
+#PageContent .actionMessage {
+  background: url(../images/coaxing-message.png) center top no-repeat;
+  height: 131px;
+  margin-top: 25px;
+  width: 272px;
+}
+.twitterWrapper iframe {
+  height: 35px !important;
+  margin-left: 99px !important;
+  width: 272px !important;
+}
+#ApplyDislaimer {
+  background: #f8f8f8;
+  border-top: 1px dotted #ccc;
+  display: block;
+  margin: 15px -25px -25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#AuditionsCountdown {
+  color: white;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+#AuditionsCountdown .clock {
+  border-color: #999;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+#AuditionsCountdown .label {
+  background: url(../images/countdown-label.png) center center no-repeat;
+  color: #e4c491;
+  font-weight: 300;
+  height: 14px;
+  margin: 0 auto;
+  width: 179px;
+}
+/* PageFooter */
+#PageFooter {
+  margin: 30px auto;
+  width: 960px;
+}
+#PageFooter .ramsHeadLogo {
+  background: url(../images/rams-head-logo.png);
+  display: block;
+  height: 32px;
+  margin: 0 auto;
+  opacity: 0.25;
+  width: 150px;
+}
+/*
+==================================
+            Text Module
+==================================
+*/
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
+  font-weight: 500;
+  display: block;
+}
+h1 {
+  color: #bb842d;
+  font-size: 24px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+h1 ~ h1 {
+  border-top: 1px dotted #ccc;
+  padding-top: 25px;
+}
+h2 {
+  background: #f8f8f8;
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+h2 span {
+  font-weight: normal;
+  font-size: 80%;
+  font-style: italic;
+}
+h3 {
+  color: #a0a5aa;
+  font-size: 100%;
+  font-weight: normal;
+  margin: 8px;
+}
+/* Links */
+a {
+  color: #880088;
+  cursor: pointer;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+/* Paragraph */
+p {
+  margin-bottom: 25px;
+}
+p:last-child {
+  margin-bottom: 0;
+}
+/* Lists */
+ul {
+  list-style: square;
+  margin-left: 18px;
+  margin-bottom: 10px;
+}
+p + ul {
+  margin-top: -10px;
+}
+/* Emphasis */
+em {
+  color: #999;
+}
+/*
+==================================
+       Column Layout Module   
+==================================
+*/
+/* General */
+.columns:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.columns .column {
+  float: left;
+}
+.columns .column > .columnContent {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.columns .column.firstSpan > .columnContent {
+  padding-left: 0;
+}
+.columns .column.lastSpan > .columnContent {
+  border-right: none;
+  padding-right: 0;
+}
+/* 2-Column Layouts */
+.columns .column.span1of2 {
+  width: 50%;
+}
+/* 3-Column Layouts */
+.columns .column.span1of3 {
+  width: 33.3%;
+}
+.columns .column.span2of3 {
+  width: 66.6%;
+}
+/* 4-Column Layout */
+.columns .column.span1of4 {
+  width: 25%;
+}
+.columns .column.span2of4 {
+  width: 50%;
+}
+.columns .column.span3of4 {
+  width: 75%;
+}
+/* 5-Column Layout */
+.columns .column.span1of5 {
+  width: 20%;
+}
+.columns .column.span2of5 {
+  width: 40%;
+}
+.columns .column.span3of5 {
+  width: 60%;
+}
+.columns .column.span4of5 {
+  width: 80%;
+}
+/*
+==================================
+           Video Module   
+==================================
+*/
+.video {
+  border: 3px solid white;
+  box-shadow: 0 1px 3px #666;
+  cursor: pointer;
+  height: 153px;
+  position: relative;
+  width: 272px;
+}
+.video .preview {
+  background: black url(../images/coa-video-still.png) left top no-repeat;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.video .playButton {
+  background: url(../images/video-play-button.png) left top no-repeat;
+  height: 67px;
+  left: 50%;
+  margin-top: -33px;
+  margin-left: -45px;
+  position: absolute;
+  top: 50%;
+  width: 90px;
+}
+.video .overlay {
+  background: black;
+  bottom: 0;
+  cursor: pointer;
+  display: none;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.video:hover {
+  cursor: pointer;
+}
+.video:hover .playButton {
+  background-position: right bottom;
+}
+.video:hover .overlay {
+  display: block;
+}
+/*
+==================================
+          Intro Effects   
+==================================
+*/
+body#home #PageHeader .leftBG,
+body#home #PageHeader .rightBG,
+body#home #PageHeader .logo,
+body#home #PageNavbar,
+body#home #PageContent,
+body#home #PageFooter {
+  display: none;
+}
+/*
+==================================
+          Company Page   
+==================================
+*/
+#company p {
+  max-height: 60px;
+  overflow: hidden;
+}
+#company #PageContent img {
+  background: white;
+  display: block;
+  float: left;
+  height: 120px;
+  margin-right: 15px;
+  width: 80px;
+}
+#company #PageContent .bio {
+  margin-bottom: 15px;
+}
+#company #PageContent .bio:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}

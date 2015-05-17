@@ -1,0 +1,600 @@
+<!--#include virtual="/group/rams-head/includes/header.html" -->
+
+<div id="main">
+	<h1>Spring Show Archives</h1> 
+
+	<table>
+		<tr>
+			<td>
+				<a href="05/companywebsiteindex.htm"><h4>Spring Show 2005: <cite>Company</cite></h4></a> 
+				<ul>
+					<li>
+						<a href="05/companywebsiteindex.htm">Production Website</a>
+					</li>
+					<li>
+						<a href="05/Sondheim Review Aritcle.pdf"><i>Sondheim Review</i> Article</a>
+					</li>
+					<li>
+						<a href="05/PhotoCall/index.html">Photo Call</a>
+					</li>
+				</ul>
+			</td>
+			<td width="50">
+			</td>
+			<td align="center">
+				<a href="05/CompanyPoster.gif"> <img src="05/CompanyPosterSmall.gif" align="center" hspace="1" width="150" border="0"></a>
+			</td>
+		</tr>
+		<tr>
+			<td height="10">
+				<hr>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="04/index.shtml"><h4>Spring Show 2004: <cite>Kiss Me, Kate</cite></h4></a> 
+				<ul>
+					<li>
+						<a href="04/KMKPics.html">Photo Call Photos</a>
+					</li>
+				</ul>
+			</td>
+			<td width="50">
+			</td>
+			<td align="center">
+				<a href="04/marquee_plain.jpg"> <img src="04/marquee_plain.jpg" align="center" hspace="1" width="250" border="0"></a>
+			</td>
+		</tr>
+		<tr>
+			<td height="10">
+				<hr>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h4><a href="03/">Spring Show 2003: <cite>West Side Story</cite></a></h4> 
+				<ul>
+					<li>
+						<a href="03/WSSPics.html">Photo Call Photos</a>
+					</li>
+				</ul>
+			</td>
+			<td width="50">
+			</td>
+			<td align="center">
+				<a href="03/WSS_poster.gif"> <img src="03/WSS_poster_small.gif" align="center" hspace="1" width="150" border="0"></a>
+			</td>
+		</tr>
+		<tr>
+			<td height="10">
+				<hr>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h4><a href="02/Drood.html">Spring Show 2002: <cite>The Mystery Of Edwin Drood</cite></a></h4> 
+				<ul>
+					<li>
+						<a href="02/DroodPics.html">Photo Call Photos</a>
+					</li>
+					<li>
+						<a href="02/DroodSynopsis.html">Synopsis</a> 
+					</li>
+					<li>
+						<a href="02/DroodMusic.html">Song List</a> 
+					</li>
+					<li>
+						<a href="02/DroodProgram.html">Program Listing</a> 
+					</li>
+					<li>
+						<a href="02/drood/index.html">Preliminary Production Calendar</a> 
+					</li>
+				</ul>
+			</td>
+			<td width="50">
+			</td>
+			<td align="center">
+				<a href="02/drood2.gif"> <img src="02/drood2.gif" align="center" hspace="1" width="150" border="0"></a> </a>
+			</td>
+		</tr>
+		<tr>
+			<td height="10">
+				<hr>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h4>Spring Show 2001: <cite>A Chorus Line</cite></h4> 
+				<ul>
+					<li>
+						<a href="01/ACLPics.html">Photo Call Photos</a>
+					</li>
+				</ul>
+				<td width="50">
+				</td>
+				<td align="center">
+					<a href="01/ACL_Poster_big.jpg"> <img src="01/ACL_Poster_small.jpg" align="center" hspace="1" width="250" border="0"></a> </a>
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4><a href="00/TOC.html">Spring Show 2000: <cite>Pippin</cite></a></h4> 
+					<ul>
+						<li>
+							<a href="00/TOC.html">Online Archive Pack</a> 
+						</li>
+						<li>
+							<a href="00/main.htm">Old Web Page</a> 
+						</li>
+						<li>
+							<a href="00/staff.htm">Staff Description</a> 
+						</li>
+						<li>
+							<a href="00/assprod.htm">Assistant Producer Description</a>
+						</li>
+						<li>
+							<a href="00/Pics.html">Photo Call Photos</a> 
+						</li>
+					</ul>
+					<td width="50">
+					</td>
+					<td align="center">
+						<img src="00/pippin_small.jpg" align="center" hspace="10" width="150">
+					</td>
+				</tr>
+				<tr>
+					<td height="10">
+						<hr>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h4> <a href="99/jcs.html">Spring Show 1999: <cite>Jesus Christ Superstar</cite></a></h4> 
+						<ul>
+							<li>
+								<a href="99/JCSSetLights.html">Theatrical Design</a> 
+							</li>
+							<li>
+								<a href="http://www.davidstarke.com/portfolio/lighting/jcs/images/jcs.qt"> JCS Trailer (very large ~40MB)</a> 
+							</li>
+						</ul>
+					</td>
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+					<img src="99/jcs7.jpg" align="center" hspace="10" width="250"> 
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4>Spring Show 1998: <cite>Chess</cite></h4> 
+					<ul>
+						<li>
+							<a href="98/ChessSet.html">Set Design</a> 
+						</li>
+					</ul>
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4> <a href="97/">Spring Show 1997: <cite>City of Angels</cite></a></h4>
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+					<h4><img src="97/program.jpg" align="center" hspace="10" width="100"> </h4> 
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4><a href="95/">Spring Show 1995: <cite>Once on This Island</cite></a></h4> 
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+					<h4><img src="95/teaser-100.gif" align="center" hspace="10" width="100" height="128"> </h4>
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4>Spring Show 1994: <cite>Guys and Dolls</cite></h4> 
+					<ul>
+						<li>
+							<a href="94/build.html">Photos from Build</a> 
+						</li>
+						<li>
+							<a href="94/show.html">Backstage Photos</a> 
+						</li>
+						<li>
+							<a href="94/retreat.html">Retreat Photos</a> 
+						</li>
+					</ul>
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+					<h4><img src="94/program-100.gif" align="center" hspace="10" width="100" height="154"></h4> 
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4>Spring Show 1993: <cite>West Side Story</cite></h4> 
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+					<h4><img src="93/program-100.gif" align="center" hspace="10" width="100" height="159"></h4> 
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4>Spring Show 1992: <cite>Cabaret</cite></h4> 
+					<ul>
+						<li>
+							<a href="92/cabaret.html">Set Photos</a> 
+						</li>
+					</ul>
+				</td>
+				<td width="50">
+				</td>
+				<td align="center">
+					<h4><img src="92/program-100.gif" align="center" hspace="10" width="100" height="160"></h4> 
+				</td>
+			</tr>
+			<tr>
+				<td height="10">
+					<hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h4>Spring Show 1991: <cite>Into The Woods</cite></h4>
+					<ul>
+						<li>
+							If you have photos you can scan in, let us know! 
+						</li>
+					</ul>
+				</tr>
+				<tr>
+					<td height="10">
+						<hr>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h4>Spring Show 1990: <cite>Evita</cite></h4>
+						<ul>
+							<li>
+								If you have photos you can scan in, let us know! 
+							</li>
+						</ul>
+					</tr>
+					<tr>
+						<td height="10">
+							<hr>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<h4>Spring Show 1989: <cite>A Chorus Line</cite></h4> 
+							<ul>
+								<li>
+									If you have photos you can scan in, let us know! 
+								</li>
+							</ul>
+						</tr>
+						<tr>
+							<td height="10">
+								<hr>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<h4>Spring Show 1988: <cite>Jesus Christ Superstar</cite></h4> 
+								<ul>
+									<li>
+										If you have photos you can scan in, let us know! 
+									</li>
+								</ul>
+							</tr>
+							<tr>
+								<td height="10">
+									<hr>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<h4>Spring Show 1987: <cite>West Side Story</cite></h4> 
+									<ul>
+										<li>
+											If you have photos you can scan in, let us know! 
+										</li>
+									</ul>
+								</tr>
+								<tr>
+									<td height="10">
+										<hr>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<h4>Spring Show 1986: <cite>The Music Man</cite></h4> 
+										<ul>
+											<li>
+												If you have photos you can scan in, let us know! 
+											</li>
+										</ul>
+									</tr>
+									<tr>
+										<td height="10">
+											<hr>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h4>Spring Show 1985: <cite>Sweeney Todd</cite></h4> 
+											<ul>
+												<li>
+													If you have photos you can scan in, let us know! 
+												</li>
+											</ul>
+										</tr>
+										<tr>
+											<td height="10">
+												<hr>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h4>Spring Show 1984: <cite>Anything Goes</cite></h4> 
+												<ul>
+													<li>
+														If you have photos you can scan in, let us know! 
+													</li>
+												</ul>
+											</tr>
+											<tr>
+												<td height="10">
+													<hr>
+												</td>
+											</tr>
+											<tr>
+												<td>
+													<h4>Spring Show 1983: <cite>Hello, Dolly</cite></h4> 
+													<ul>
+														<li>
+															If you have photos you can scan in, let us know! 
+														</li>
+													</ul>
+												</tr>
+												<tr>
+													<td height="10">
+														<hr>
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<h4>Spring Show 1982: <cite>Cabaret</cite></h4> 
+														<ul>
+															<li>
+																If you have photos you can scan in, let us know! 
+															</li>
+														</ul>
+													</tr>
+													<tr>
+														<td height="10">
+															<hr>
+														</td>
+													</tr>
+													<tr>
+														<td>
+															<h4>Special Project 1982: <cite>Godspell</cite></h4> 
+															<ul>
+																<li>
+																	If you have photos you can scan in, let us know! 
+																</li>
+															</ul>
+														</tr>
+														<tr>
+															<td height="10">
+																<hr>
+															</td>
+														</tr>
+														<tr>
+															<td>
+																<h4>Spring Show 1981: <cite>West Side Story</cite></h4> 
+																<ul>
+																	<li>
+																		If you have photos you can scan in, let us know! 
+																	</li>
+																</ul>
+															</tr>
+															<tr>
+																<td height="10">
+																	<hr>
+																</td>
+															</tr>
+															<tr>
+																<td>
+																	<h4>Spring Show 1980: <cite>Pippin</cite></h4> 
+																	<ul>
+																		<li>
+																			If you have photos you can scan in, let us know! 
+																		</li>
+																	</ul>
+																</tr>
+																<tr>
+																	<td height="10">
+																		<hr>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<h4>Spring Show 1979: <cite>Kiss Me, Kate</cite></h4> 
+																		<ul>
+																			<li>
+																				If you have photos you can scan in, let us know! 
+																			</li>
+																		</ul>
+																	</tr>
+																	<tr>
+																		<td height="10">
+																			<hr>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td>
+																			<h4>Spring Show 1978: <cite>The Music Man</cite></h4> 
+																			<ul>
+																				<li>
+																					If you have photos you can scan in, let us know! 
+																				</li>
+																			</ul>
+																		</tr>
+																		<tr>
+																			<td height="10">
+																				<hr>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td>
+																				<h4>Spring Show 1977: <cite>Fiddler on the Roof</cite></h4> 
+																				<ul>
+																					<li>
+																						If you have photos you can scan in, let us know! 
+																					</li>
+																				</ul>
+																			</tr>
+																			<tr>
+																				<td height="10">
+																					<hr>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td>
+																					<h4>Spring Show 1976: <cite>Guys and Dolls</cite></h4> 
+																					<ul>
+																						<li>
+																							If you have photos you can scan in, let us know! 
+																						</li>
+																					</ul>
+																				</tr>
+																				<tr>
+																					<td height="10">
+																						<hr>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td>
+																						<h4>Spring Show 1965: <cite>Once Upon a Mattress</cite></h4> 
+																						<ul>
+																							<li>
+																								If you have photos you can scan in, let us know! 
+																							</li>
+																						</ul>
+																					</tr>
+																					<tr>
+																						<td height="10">
+																							<hr>
+																						</td>
+																					</tr>
+																					<tr>
+																						<td>
+																							<h4>Spring Show 1962: <cite>Oh Captain</cite></h4> 
+																							<ul>
+																								<li>
+																									If you have photos you can scan in, let us know! 
+																								</li>
+																							</ul>
+																						</tr>
+																						<tr>
+																							<td height="10">
+																								<hr>
+																							</td>
+																						</tr>
+																						<tr>
+																							<td>
+																								<h4>Spring Show 1961: <cite>Knight in Arms</cite></h4> 
+																								<ul>
+																									<li>
+																										If you have photos you can scan in, let us know! 
+																									</li>
+																								</ul>
+																							</tr>
+																							<tr>
+																								<td height="10">
+																									<hr>
+																								</td>
+																							</tr>
+																							<tr>
+																								<td>
+																									<h4>Spring Show 1960: <cite>Kismet</cite></h4> 
+																									<ul>
+																										<li>
+																											If you have photos you can scan in, let us know! 
+																										</li>
+																									</ul>
+																								</tr>
+																								<tr>
+																									<td height="10">
+																										<hr>
+																									</td>
+																								</tr>
+																								<tr>
+																									<td>
+																										<h4>Spring Show 1959: <cite>Pal Joey</cite></h4> 
+																										<ul>
+																											<li>
+																												If you have photos you can scan in, let us know! 
+																											</li>
+																										</ul>
+																									</td>
+																								</table>
+																								<p align="center">
+																									<img src="../../pics/line.red2.gif" width="600" height="4">
+																								</p>
+
+
+																							</div>
+
+<!--#include virtual="/group/rams-head/includes/footer.html" -->

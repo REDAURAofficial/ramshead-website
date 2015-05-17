@@ -1,0 +1,165 @@
+body {
+	background:#F4D523 url(images/background-top.jpg) repeat-x top left;
+	border:0;padding:0;margin:0;
+	}
+.red {color:#C33400; }
+.redder {color:#FF2609; }
+/* text formatting */
+body, table {
+	font:12pt "Times New Roman", Times, serif;
+	color:#33140a;
+	}
+h1, h2 {
+	color:#000;
+	font-weight:normal;
+	font-family:Impact, sans-serif;
+	}
+h2 { color:#C33400;}
+h3 {font:10pt Verdana, Arial, Helvetica, sans-serif; }
+.right h1 {
+	padding-bottom:0;
+	margin-bottom:0;
+	}
+.right h2 {
+	padding-top:0;
+	margin-top:0;
+	font-size:175%;
+	}
+.right h4 {
+	font-size:125%;
+	font-weight:bold;
+	padding-bottom:0;
+	margin-bottom:4px;
+	}
+.right p {
+	padding-top:0;
+	margin-top:0;
+}
+p {
+	line-height:120%;
+	text-align:justify;
+	}
+/* css display */
+#container {
+	position:relative;
+	display:block;
+	width:800px;
+	margin:0 auto;
+	}
+#content {
+	position:absolute;
+	top:170px;
+}
+.block {
+padding-bottom:40px;
+width:800px;
+float:left;
+clear:left;
+}
+#cast strong { font-size:13.5pt; }
+#gameFlash { position:absolute; left:134px; top:43px; }
+#gameFlashImg { position:absolute; left:123px; top:33px; }
+.whole {
+	clear:both;
+	float:left;
+	width:800px;
+}
+.quarter {
+	float:left;
+	padding:10px;
+	width:180px;
+	}
+.left {
+	clear:left;
+	width:330px;
+	float:left;
+	margin-left:15px;
+}
+.right {
+	float:right;
+	width:427px;
+	margin-right:12px;
+	}
+/* PS generated code from main_page03.psd */
+
+#menu_table {
+	float:left;
+	position:absolute;
+	background:url(images/menu-background.gif) top left no-repeat;
+	left:0px;
+	top:0px;
+	width:800px;
+	height:600px;
+}
+
+#buy_ {
+	position:absolute;
+	left:506px;
+	top:13px;
+	width:279px;
+	height:40px;
+}
+
+#dead_ {
+	position:absolute;
+	left:371px;
+	top:62px;
+	width:105px;
+	height:54px;
+}
+
+#who_ {
+	position:absolute;
+	left:495px;
+	top:62px;
+	width:125px;
+	height:55px;
+}
+
+#better_ {
+	position:absolute;
+	left:638px;
+	top:62px;
+	width:139px;
+	height:54px;
+}
+
+#game_ {
+	position:absolute;
+	left:637px;
+	top:126px;
+	width:154px;
+	height:39px;
+}
+
+#history_ {
+	position:absolute;
+	left:358px;
+	top:127px;
+	width:65px;
+	height:38px;
+}
+
+#cast_ {
+	position:absolute;
+	left:442px;
+	top:127px;
+	width:90px;
+	height:38px;
+}
+
+#contact_ {
+	position:absolute;
+	left:550px;
+	top:127px;
+	width:65px;
+	height:38px;
+}
+
+#killJulie_ {
+	position:absolute;
+	left:13px;
+	top:28px;
+	width:65px;
+	height:38px;
+}

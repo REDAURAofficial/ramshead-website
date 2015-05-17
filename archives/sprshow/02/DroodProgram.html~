@@ -1,0 +1,444 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<TITLE>The Mystery of Edwin Drood</TITLE>
+
+<STYLE TYPE="text/css">
+<!--
+
+
+TABLE.nav {background-color: #ffffff;
+	border-color: black}
+
+TABLE.body {border-left: 5pt double black;
+		text-align: center}
+
+TABLE.back	{background-color: white;
+	border-color: black;
+	text-align: center;
+	width: 100%}
+
+A.navlink
+
+H1 	{text-align: center;
+	font-size: 32pt}
+
+H2 	{text-align: center}
+H3	{text-align: center}
+
+TD	{font-size: 12pt;
+	border-width: 1pt;
+	border-color: #000000;
+	text-align: center}
+
+TD.big	{text-align: center;
+	font-size: 12pt}
+
+STRONG	(font-weight: bold;
+	font-size: 12pt}
+
+TD.left {text-align: center}
+
+P.center {text-align: center}
+
+p	{text-align: left}
+
+HR	{color: black}
+
+IMG.nav 	{background-color: #cccccc;
+		border: thin solid black}
+
+BODY 	{color: black;
+		background-color: #ffffff}
+-->
+</STYLE>
+
+<BODY>
+
+
+
+<H1 ALIGN=CENTER>The Mystery of Edwin Drood</H1>
+<H2>April 2002, Memorial Auditorium, Stanford, CA</H2>
+<hr>
+<!--
+<P Class="center">
+<A HREF="DroodProgram.html">Check out the Program</A> |
+<A HREF="DroodPics.html">Take a Look at the Photo Call Pictures</A> |
+<A HREF="index.htm">Home</A></P>
+-->
+<TABLE ALIGN=CENTER BORDER=0 CELLSPACING=0 CELLPADDING=10 CLASS="back">
+	
+<TR VALIGN=TOP>
+<TD WIDTH=140><TABLE ALIGN=LEFT BORDER=0 CELLSPACING=5 CELLPADDING=0 CLASS="nav" WIDTH=140>
+<TR>
+<TD><A HREF="Drood.html">
+<IMG CLASS="nav" SRC="graphics/Main.gif">
+</A>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<A HREF="DroodProgram.html">
+<IMG CLASS="nav" SRC="graphics/Program.gif"></A>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<A HREF="DroodPics.html"><IMG CLASS="nav" SRC="graphics/Photos.gif"></A>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<A HREF="DroodSynopsis.html"><IMG CLASS="nav" SRC="graphics/Synopsis.gif"></A>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<A HREF="DroodMusic.html"><IMG CLASS="nav" SRC="graphics/Music.gif"></A>
+</TD>
+</TR>
+
+
+<TR>
+<TD>
+<A HREF="/group/rams-head"><IMG CLASS="nav" SRC="graphics/Home.gif"></A>
+</TD>
+</TR>
+
+
+</TABLE>
+</TD>
+<TD>
+<TABLE ALIGN=CENTER BORDER=0 CELLSPACING=5 CELLPADDING=5 CLASS="body" WIDTH=100%>
+<TR>
+<TD>
+
+
+
+<TABLE BORDER=0 CELLSPACING=8 CELLPADDING=10 ALIGN=CENTER>
+	<TR VALIGN=TOP>
+		<TD></TD>
+		
+		<TD CLASS="big"><I>Producer</I><BR><STRONG>Trang Pham</STRONG></TD>
+		
+		<TD></TD>
+	</TR>
+	<TR VALIGN=TOP>	
+		<TD></TD>
+				
+		<TD CLASS="big"><I>Director</I><BR><STRONG>Rachel Egenes</STRONG></TD>
+		
+		<TD></TD>
+	</TR>
+	<TR VALIGN=TOP>	
+		<TD CLASS="big"><I>Vocal Director</I><BR><STRONG>Mike Solomon</STRONG></TD>
+		
+		<TD CLASS="big"><I>Choreographer</I><BR><STRONG>Ginger Turner</STRONG></TD>
+		
+		<TD CLASS="big"><I>Music Director</I><BR><STRONG>Michael Deeringer</STRONG></TD>	
+	</TR>
+	<TR VALIGN=TOP>		
+		<TD CLASS="big"><I>Set Designer</I><BR><STRONG>Inga Small</STRONG></TD>
+		
+		<TD CLASS="big"><I>Stage Manager</I><BR><STRONG>Lindsey Wittenberg</STRONG></TD>
+		
+		<TD CLASS="big"><I>Lighting Designer</I><BR><STRONG>Andrew M. Reid</STRONG></TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD CLASS="big"><I>Sound Designer</I><BR><STRONG>Storm Staley</STRONG></TD>
+		
+		<TD CLASS="big"><I>Technical Directors</I><BR><STRONG>Kent Griffen<BR>Steve van Loben Sels</STRONG></TD>
+	
+		<TD CLASS="big"><I>Costume Designer</I><BR><STRONG>Sara Weekly</STRONG></TD>
+	</TR>
+	
+</TABLE>	
+
+<TABLE BORDER=0 CELLSPACING=8 CELLPADDING=10 ALIGN=CENTER>
+	<TR VALIGN=TOP>		
+		<TD><I>Crisis Mangager/Social Manager</I><BR>
+			<STRONG>Athena von Oech</STRONG></TD>
+			
+		<TD><I>Ticket/House Manager</I><BR>
+			<STRONG>Sung Lee</STRONG></TD>
+	</TR>
+	<TR VALIGN=TOP>	
+		<TD><I>Business Manager of Internal Affairs</I><BR>
+			<STRONG>Rachel Hepworth</STRONG></TD>
+	
+		<TD><I>Business Manager of External Affairs</I><BR>
+			<STRONG>Sarala Nagala</STRONG></TD>
+	</TR>
+
+</TABLE>	
+
+<TABLE BORDER=0 CELLSPACING=8 CELLPADDING=10 ALIGN=CENTER>
+	<TR VALIGN=TOP>		
+		<TD><I>Rehearsal Pianist</I><BR>
+			<STRONG>David Regele</STRONG></TD>
+			
+		<TD><I>Assistant Stage Managers</I><BR>
+			<STRONG>Andy Cox<BR>Lauren Kramer</STRONG></TD>
+			
+		<TD><I>Assistant Lighting Designer</I><BR>
+			<STRONG>Alice Chiu</STRONG></TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD><I>Orchestra Manager</I><BR>
+			<STRONG>Michael Deeringer</STRONG></TD>
+	
+		<TD><I>Master Carpenter</I><BR>
+			<STRONG>Christina "Duchess" Chao</STRONG></TD>
+	
+		<TD><I>Props Mistress</I><BR>
+			<STRONG>Ara Kim</STRONG></TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD><I>Sound Consultant</I><BR>
+			<STRONG>Josh Zide</STRONG></TD>
+	
+		<TD><I>Run Crew Chiefs</I><BR>
+			<STRONG>Kent Griffen<BR>Steve van Loben Sels</STRONG></TD>
+
+		<TD><I>Scenic Painter</I><BR>
+			<STRONG>Jiny Kim</STRONG></TD>		
+	</TR>	
+	<TR VALIGN=TOP>
+		<TD><I>Spot Light Operators</I><BR>
+			<STRONG>Cara Bertron<BR>Inga Small</STRONG></TD>
+	
+		<TD><I>Run Crew</I><BR>
+		<STRONG>David Benefiel<BR>Vince Dorie<BR>Christina "Duchess" Chao<BR>
+		Martin Lucas<BR>Robert Lugo</STRONG></TD>
+
+		<TD><I>Moving Light &<BR>Scroller Technicians</I><BR>
+			<STRONG>Kenny McMullen<BR>Alice Louise Dickinson<BR>David Strarke</STRONG></TD>		
+	</TR>	
+	
+</TABLE>	
+
+<TABLE BORDER=0 CELLSPACING=25 CELLPADDING=10 ALIGN=CENTER>
+
+	<TR VALIGN=TOP>
+		<TD><I>Build Crew</I><BR>
+			<STRONG>Carolyn Calcagni<BR>Kendall Carrigan<BR>Cicholas Chan<BR>
+			Vince Dorie<BR>Nikki Eschen<BR>Martin Lucas<BR>Robert Lugo<BR>
+			Dave Relyea<BR>Jenny Steiger<BR>Alex Smyth</STRONG></TD>
+	
+		
+		<TD><I>Hang and Focus Crew</I><BR>
+			<STRONG>Carolyn Calcagni<BR>Cicholas Chan<BR>Christina "Duchess" Chao
+			<BR>Gabe Cronin<BR>Nikki Eschen<BR>Emily Kuwahara<BR>Robert Lugo<BR>
+			Amit Sabnis<BR>David Starke<BR>Josh Zide</STRONG></TD>		
+	</TR>
+
+</TABLE>	
+<H2>Cast</H2>
+<H4>(in Alphabetical Order)</H4>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=10 ALIGN=CENTER>
+
+	<TR VALIGN=TOP>
+		<TD><STRONG>Dan Anthony</STRONG><BR><I>Client of Puffer<BR>
+			Shade of Jasper<BR>Durdles</I>
+			</TD>
+	
+		
+		<TD><STRONG>Michael Deeringer</STRONG><BR>
+		<I>Mr. Thomas Pucell:<BR>Maestro of the Music Hall Royale</I>
+			</TD>
+	</TR>
+	
+	<TR VALIGN=TOP>
+		<TD><STRONG>Meghan Dunn</STRONG><BR><I>Miss Alice Nutting<BR>
+			Edwin Drood</I>
+			</TD>
+	
+		
+		<TD><STRONG>Jessica Goldman</STRONG><BR>
+		<I>Miss Isabel Yearsley<BR>Wendy<BR>Succuba</I>
+			</TD>
+	</TR>
+
+	<TR VALIGN=TOP>
+		<TD><STRONG>Natasha Grach</STRONG><BR><I>Miss Janet Conover<BR>
+			Helena Landless</I>
+			</TD>
+	
+		
+		<TD><STRONG>Mary Haw</STRONG><BR>
+		<I>Miss Florence Gill<BR>Flo<BR>Succuba</I>
+			</TD>
+	</TR>
+
+	<TR VALIGN=TOP>
+		<TD><STRONG>Stan Hsu</STRONG><BR><I>Master Nick Cricker<BR>
+			Client of Puffer<BR>Deputy</I>
+			</TD>
+	
+		
+		<TD><STRONG>Michelle Jonelis</STRONG><BR>
+		<I>Miss Sarah Cook<BR>Succuba<BR>Cloisterham Citizen</I>
+			</TD>
+	</TR>
+
+	<TR VALIGN=TOP>
+		<TD><STRONG>Jonny Kaplan</STRONG><BR><I>Mr. Cedric Moncriefe<BR>
+			The Rev. Mr. Crisparkle</I>
+			</TD>
+	
+		
+		<TD><STRONG>Jordan Kaplan</STRONG><BR>
+		<I>Mr. Clive Paget<BR>John Jasper</I>
+			</TD>
+	</TR>
+
+	<TR VALIGN=TOP>
+		<TD><STRONG>Meredith Kendall</STRONG><BR><I>Miss Deirdre Peregrine<BR>
+			Rosa Budd</I>
+			</TD>
+	
+		
+		<TD><STRONG>Bob Lantz</STRONG><BR>
+		<I>Mr James Throttle: Stage Manager<BR>Barkeep<BR>Cloisterham Citizen</I>
+			</TD>
+	</TR>
+
+	<TR VALIGN=TOP>
+		<TD><STRONG>Nathan Lasche</STRONG><BR><I>Mr. Phillip Bax<BR>
+			Bazzard<BR>Waiter</I>
+			</TD>
+	
+		
+		<TD><STRONG>Allison Paine</STRONG><BR>
+		<I>Miss Violet Balfour<BR>Beatrice</I>
+			</TD>
+	</TR>
+
+<TR VALIGN=TOP>
+		<TD><STRONG>Sarah Price</STRONG><BR><I>Miss Angela Prysock<BR>
+			The Pricess Puffer</I>
+			</TD>
+	
+		
+		<TD><STRONG>Carlyn Reichel</STRONG><BR>
+		<I>Miss Gwendolen Pynn<BR>Maid</I>
+			</TD>
+	</TR>
+
+<TR VALIGN=TOP>
+		<TD><STRONG>Nicholas Saadah</STRONG><BR>
+		<I>Mr. William Cartwright: Chairman<BR>Mayor Thomas Sapsea</I>
+			</TD>
+	
+		
+		<TD><STRONG>Pablo Schyfter</STRONG><BR>
+		<I>Mr. Victor Grinstead<BR>Neville Landless</I>
+			</TD>
+	</TR>
+
+<TR VALIGN=TOP>
+		<TD><STRONG>Alexandra Zigmond</STRONG><BR>
+		<I>Shade of Drood<BR>Cloisterham Citizen</I>
+			</TD>
+		
+		<TD><STRONG>Charlotte Williams<BR>Veronica Wilson</STRONG><BR>
+		<I>Tap Cameo</I>
+			</TD>	
+	</TR>
+</TABLE>
+<BR>
+<BR>
+<H2>Orchestra</H2>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=10 ALIGN=CENTER>
+<TR VALIGN=TOP>
+
+		<TD><I>Conductor</I><BR>
+		<STRONG>Michael Deeringer</STRONG></TD>
+
+</TR>
+<TR VALIGN=TOP>
+
+		<TD><I>Violin</I><BR>
+		<STRONG>Naishin Fu<BR>
+		Rafi Ginsberg<BR>
+		Charles Kou<BR>
+		Peter Yu</STRONG></TD>
+
+</TR>
+</TABLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=10 ALIGN=CENTER>
+<TR VALIGN=TOP>
+		<TD><I>Cello</I><BR>
+		<STRONG>Maya Thet</STRONG></TD>
+
+		<TD><I>Bass</I><BR>
+		<STRONG>Zachary Burgess</STRONG></TD>
+</TR>
+<TR VALIGN=TOP>
+		<TD><I>Flute</I><BR>
+		<STRONG>Megan Bela<BR>
+		Natalie Wong</STRONG></TD>
+
+		<TD><I>Clarinet</I><BR>
+		<STRONG>Dave Mulford<BR>
+		Ben Serebrin</STRONG></TD>
+</TR>
+<TR VALIGN=TOP>
+		<TD><I>Oboe/English Horn</I><BR>
+		<STRONG>Gina Hsieh</STRONG></TD>
+
+		<TD><I>Basoon</I><BR>
+		<STRONG>Elsie Gyang</STRONG></TD>
+</TR>
+<TR VALIGN=TOP>
+		<TD><I>Bass Clarinet</I><BR>
+		<STRONG>Dave Mulford</STRONG></TD>
+
+		<TD><I>Tenor Saxophone</I><BR>
+		<STRONG>Arjun Rustagi</STRONG></TD>
+</TR>
+</TABLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=10 ALIGN=CENTER>
+<TR VALIGN=TOP>
+		<TD><I>Trumpet</I><BR>
+		<STRONG>Chris Vaughn<BR>
+		Justin Williams</STRONG></TD>
+
+		<TD><I>Piano</I><BR>
+		<STRONG>Ryan Cooke<BR>
+		David Regele</STRONG></TD>
+
+		<TD><I>Trombone</I><BR>
+		<STRONG>Tony Leach<BR>
+		Josh Schiller</STRONG></TD>
+</TR>
+</TABLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=10 ALIGN=CENTER>
+<TR VALIGN=TOP>
+		<TD><I>Percussion</I><BR>
+		<STRONG>Kris Andeen<BR>
+		Mike Grabowski<BR>
+		Suzanne Wallace</STRONG></TD>
+
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<HR>
+<BR><P CLASS="center">
+
+<A HREF="Drood.html">Drood Main Page</A> |
+<A HREF="index.htm">Home</A>
+
+</body>
+
+</html>

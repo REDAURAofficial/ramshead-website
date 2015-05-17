@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Les Misérables</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <script src='ismobile.js' type='text/javascript'></script>
+	<script type='text/javascript'>
+if (isMobile()) {
+	window.location.replace('./m/index.html')
+}
+	</script>
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      @font-face{
+        font-family: "essays1743";
+        src: url('fonts/Essays1743.ttf');
+      } 
+
+      * {
+        margin: 0;
+      }
+
+      html {
+        height:100%;
+      }
+
+      body {
+        height: 100%;
+        background-color: #000000;
+        color:#f0f0f0;
+      }
+
+      .container-narrow > img {
+        width: 100%;
+        height: auto;
+      }
+
+      .wrapper {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        padding-top:40px;
+        margin: 0 auto -80px; /* the bottom margin is the negative value of the footer's height */
+      }
+
+      .footer {
+        height: 80px; /* .push must be the same height as .footer */
+      }
+
+      .push {
+        height:80px;
+      }
+
+      .lead > img {
+        width: 100%;
+        height: auto;
+      }
+
+      .footer > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height:60px;
+        margin-bottom:20px;
+        width:auto;
+      }
+
+      map{
+        outline: 0;
+      }
+
+      /* Custom container */
+      .container-narrow {
+        margin: 0 auto;
+        width: 900px;
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      .lead {
+        font-size:18px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="wrapper">
+    <div class="container-narrow">
+      <div class="lead">
+      <img src="banner3.jpg" usemap=#example border=0 hidefocus="true">
+      <map name=example>
+        <area onfocus="blur();" shape=rect coords=95,97,325,592 href="about.html"> 
+        <area onfocus="blur();" shape=rect coords=325,97,565,592 href="castandcrew.html"> 
+        <area onfocus="blur();" shape=rect coords=565,97,801,592 href="tickets.html">
+      </map>
+      </div>
+    </div> <!-- /container -->
+    <div class="push"></div>
+  </div>
+
+    <div class="footer">
+      <img src="ramshead.png">
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<!--#include virtual="/group/rams-head/includes/header.html" -->
+
+
+<!-- Photos -->
+<div id="banner"></div>&nbsp;
+
+<!-- Main Content Section -->
+<div id="main">
+
+	<h1>Gaieties</h1>
+
+	<div>
+		The hilarious musical experience, student written, produced, and performed every year.
+	</div>
+
+	<div>
+		While the Stanford Archive has stuff on this from prior to 1957, here's some of our <a href="archives/gaieties/">archive</a>.
+	</div>
+
+
+
+	<h1 id="original_winter_one_acts">Original Winter One Acts</h1>
+
+	<div>
+		Every winter, Ram's Head produces a collection of student written one act plays. These showcase the vast talent of Stanford's playwrights.
+	</div>
+
+	<div>
+		<a href="archives/owoa/">link</a>
+	</div>
+
+
+
+
+
+	<h1 id="spring_show">Spring Show</h1>
+
+	<div>
+		The highlight of the Ram's Head season.
+	</div>
+
+	<div>
+		Every spring, Ram's Head produces a full blown Broadway musical on the Memorial Auditorium stage.
+	</div>
+
+	<div>
+		This is a short archive of recent shows: <a href="archives/sprshow/">link</a>
+	</div>
+
+
+
+	<h1 id="other">Other</h1>
+	<div>
+		Occasionally, Ram's Head will produce something out of our normal season. This is an incomplete listing of those projects.
+	</div>
+
+	<h2>Special Projects</h2>
+
+	<h3>Fall 2010 - Rumors</h3>
+	<h3>Spring 2009 - Comedic One Acts</h3>
+	<h3>Pinkertons: Spring 2007</h3>
+	<h2>Early 90's: SPONGE</h3>
+		<div>
+			the precursor to SIMPS
+		</div>
+	</div>
+
+<!--#include virtual="/group/rams-head/includes/footer.html" -->

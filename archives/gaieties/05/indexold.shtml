@@ -1,0 +1,60 @@
+<!--#include virtual="../includes/header.html" -->
+
+<!--#include virtual="../includes/default_sidebar.html" -->
+
+<h1>Big Game Gaieties</h1>
+
+<p>Gaieties is back and better than ever for 2005.  Come back to Stanford and re-experience the most outrageous Stanford tradition there is.</p>
+  
+<!-- 
+START OF VENDINI TAG 
+Copyright (C) 2003, 2004 VENDINI, Inc.
+     All Rights Reserved. 
+		 
+WARNING: Modification of this code may disable your account. 
+
+TROUBLESHOOTING: The HTML code below is one continuous line.  Line breaks in the code below may cause problems launching the order window.
+-->
+		 
+<a href= "http://www.vendini.com/service/tickets/noJavaScript.html" onclick="window.open('https://www.vendini.com/service/tickets/index.html?e=5c58c69f3000d647969fb109a9b40968', 'order_window', 'scrollbars,width=596,height=485,status=yes,left='+((window.screen.width - 596)/2)+',top='+((window.screen.height - 460) /2.5)).focus();return false;" onMouseOver="window.status='Buy Tickets Now!';return true;" onMouseOut="window.status='';return true;" ><img src="http://www.vendini.com/images/buttons/buyTicketsNow_GB_R.gif" width="134" height="26" border="0"></a>
+
+<!-- END OF VENDINI TAG -->
+
+<img src="/group/rams-head/media/all2.png" ALT="Gaieties Banner">
+
+<p><b>What is Big Game Gaieties?</b> It’s quite simply the most hilarious, over-the-top musical extravaganza you’ll find anywhere.  The oldest, wildest, and most popular theatrical tradition on the Stanford campus, Gaieties has been delighting audiences since 1911.  </p>
+
+<p><b>What’s new for Gaieties 2005?</b> We’ll give you the most professional Gaieties you’ve ever seen.  We'll give you an exciting and mystery filled plot that appeals to students, alumni, and Stanford staff alike.  Finally, we’ll give you a show that runs UNDER TWO HOURS, GUARANTEED.</p>
+
+<p><b>Why Big Game Gaieties?</b> While we can’t control the Cardinal’s fate against Cal at Big Game on November 19th, there is one thing we know for sure.  At Gaieties… CAL ALWAYS SUCKS! </p>
+
+<p>Big Game Gaieties: A must-see event for all Stanford students, past and present.</p>   
+
+<p>----------------------------------</p>
+
+<p>Come to Big Game Gaieties and re-live the magic of Stanford.<br>  
+<br>
+November 16, 17, 18 at 8pm.<br>
+Memorial Auditorium.<br>
+<br>
+Special ticket price for alumni and staff: $15<br>
+<br>
+Click 'Buy Tickets Now' to reserve your tickets today.<br></p>
+
+<!-- 
+START OF VENDINI TAG 
+Copyright (C) 2003, 2004 VENDINI, Inc.
+     All Rights Reserved. 
+		 
+WARNING: Modification of this code may disable your account. 
+
+TROUBLESHOOTING: The HTML code below is one continuous line.  Line breaks in the code below may cause problems launching the order window.
+-->
+		 
+<a href= "http://www.vendini.com/service/tickets/noJavaScript.html" onclick="window.open('https://www.vendini.com/service/tickets/index.html?e=5c58c69f3000d647969fb109a9b40968', 'order_window', 'scrollbars,width=596,height=485,status=yes,left='+((window.screen.width - 596)/2)+',top='+((window.screen.height - 460) /2.5)).focus();return false;" onMouseOver="window.status='Buy Tickets Now!';return true;" onMouseOut="window.status='';return true;" ><img src="http://www.vendini.com/images/buttons/buyTicketsNow_GB_R.gif" width="134" height="26" border="0"></a>
+
+<!-- END OF VENDINI TAG -->  
+
+<p>For more information, email the Producer, Mike McCunniff-Reid at <a href="mailto:mcreid@stanford.edu">mcreid@stanford.edu</a>.</p>
+
+<!--#include virtual="../includes/footer.html" -->

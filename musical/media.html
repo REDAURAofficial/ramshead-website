@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>HAIRSPRAY</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/jumbotron-narrow.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+
+    var build_directory = "photos/build";
+    var rehearsal_directory = "photos/rehearsal";
+    var build_file_count = 24;
+    var rehearsal_file_count = 6;
+
+    function getFiles() {
+      
+      var i;
+      for (i = 1; i <= build_file_count; i++) {
+        if (i == 1) {
+          document.write("<div class=\"item active carouselImages\">");
+        } else {
+          document.write("<div class=\"item carouselImages\">");
+        }
+        document.write("<img src=\"" + build_directory + "/" + i + ".jpg\">");
+        document.write("<div class=\"carousel-caption\"></div>");
+        document.write("</div>");
+      }
+
+      for (i = 1; i <= rehearsal_file_count; i++) {
+        document.write("<div class=\"item carouselImages\">");
+        document.write("<img src=\"" + rehearsal_directory + "/" + i + ".jpg\">");
+        document.write("<div class=\"carousel-caption\"></div>");
+        document.write("</div>");
+      }
+    }
+
+    </script>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="header">
+        <div class="span12 centered-pills">
+          <nav>
+            <ul class="nav nav-pills">
+              <li role="presentation"><a href="index.html">Home</a></li>
+              <li role="presentation"><a href="about.html">About</a></li>
+              <li role="presentation"><a href="tickets.html">Tickets</a></li>
+              <li role="presentation"><a href="company.html">Company</a></li>
+              <li role="presentation" class="active"><a href="#">Media</a></li>
+              <li role="presentation"><a href="sponsors.html">Sponsors</a></li>
+              <li role="presentation"><a href="contact.html">Contact</a></li>
+            </ul>
+          </nav>
+        </div>
+        <h3 class="text-muted"></h3>
+      </div>
+
+      <div class="jumbotron">
+        <h2>Media</h2>
+      </div>
+
+      <div class="row marketing">
+        <div class="col-lg-12 centered">
+
+          <h3>The Making of Hairspray</h2>
+          <!-- CAROUSEL -->
+          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <script type="text/javascript">
+                getFiles()
+              </script>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+          <!-- END CAROUSEL -->
+          <br>
+          <h3>Trailer 1: What is Hairspray?</h3>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/80xnK8s4hwI" frameborder="0" allowfullscreen></iframe>
+          <br>
+          <h3>Trailer 2: Sitzprobe!</h3>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/EmD-hNJfLXA" frameborder="0" allowfullscreen></iframe>
+          <br>
+          <h3>Stanford News on Hairspray!</h3>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/UwbaaXhhFwk" frameborder="0" allowfullscreen></iframe>
+          <br>
+          <h4><a href="https://news.stanford.edu/news/2015/april/hairspray-rams-head-040915.html">Check out the full Stanford News article on Hairspray</a>, featuring interviews with cast and staff members!</h4>
+        </div>
+      </div>
+
+      <footer class="footer">
+        <div class="centered">
+          <p>&copy; <a href="http://ramshead.stanford.edu">Ram's Head Theatrical Society</a> 2015</p>
+          <p> HAIRSPRAY is presented through special arrangement with Music Theatre International (MTI). All authorized performance materials are also supplied by MTI. 421 West 54th Street, New York, NY 10019. <br>Phone: 212-541-4684 Fax: 212-397-4684. <a href="http://www.MTIShows.com">www.MTIShows.com</a></p>
+        </div>
+      </footer>
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

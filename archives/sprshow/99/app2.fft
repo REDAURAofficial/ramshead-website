@@ -1,0 +1,235 @@
+# Formage template: basic Formage features
+
+# This example sends mail and also writes to a file in case there is a problem
+# with the mail delivery.
+
+# First tell Formage where to find the input form.
+
+<INPUT_FORM>
+FORMAT=InputForm
+</INPUT_FORM>
+
+# Three things will happen to the form input:
+# 1. It gets formatted according to the MailForm format and sent as mail
+# 2. The same message (since it uses the same format) is appended to a 
+#    file as a backup in case the mail doesn't get delivered.
+# 3. A reply telling the user what they typed in (formatted according to the 
+#    Reply format) is sent back to the browser.
+
+# Each ACTION block needs at least an OUTPUT and an FORMAT.
+
+<ACTION>
+OUTPUT = mailto:mkmcq@leland.stanford.edu
+FORMAT = MailForm
+</ACTION>
+
+<ACTION>
+OUTPUT = reply
+FORMAT = Reply
+</ACTION>
+
+
+# The form that the user fills out. You don't need the opening and 
+# closing <FORM> tags. If you want, you can put the input form in a separate 
+# file and point the ACTION attribute at the Formage template.
+
+<FORMAT NAME = InputForm>
+<title>Staff Application</title>
+<body bgcolor="black" text="white"></body>
+
+<center>
+<br><img src="jcs.jpg"><hr width=85%>
+<h3>Spring Show 1999: <a href="index.html">Jesus Christ Superstar</a></h3>
+<font color="ff0000" face="arial, helvetica"><h2>Staff Application</h2></font>
+</center>
+
+<hr width=85%>
+<p>
+
+<table border=0>
+<tr valign=middle>
+<td align=right><b>Name:</b></td><td>first- <INPUT TYPE="text" NAME="FROM" SIZE=20>
+  last- <INPUT TYPE="text" NAME="LAST" SIZE=20>
+</td></tr>
+
+<tr><td align=right><b>Year:</b></td>
+<td><INPUT TYPE="radio" NAME="YEAR" VALUE="Frosh">Frosh
+<INPUT TYPE="radio" NAME="YEAR" VALUE="Soph">Soph
+<INPUT TYPE="radio" NAME="YEAR" VALUE="Junior">Junior
+<INPUT TYPE="radio" NAME="YEAR" VALUE="Senior">Senior
+<INPUT TYPE="radio" NAME="YEAR" VALUE="OTHER">_________</td></tr>
+
+<tr><td align=right><b>Major:</b></td><td><INPUT TYPE="text" NAME="MAJOR"
+SIZE=40></td></tr>
+
+<tr><td align=right><b>E-mail:</b></td><td><INPUT TYPE="text" NAME="EMAIL"
+SIZE=40></td></tr>
+
+<tr><td align=right><b>Phone:</b></td><td><INPUT TYPE="text" NAME="PHONE"
+SIZE=12></td></tr>
+
+<tr><td align=right><b>Favorite Post-<br>Apocalyptic Movie:</b></td><td><INPUT
+TYPE="text" NAME="MOVIE" SIZE=60></td></tr>
+</table>
+
+
+<p>
+<hr>   
+<p>1. Positions Applying
+For/Interested In (feel free to apply for as many positions as you have
+interest for): <br>
+<TEXTAREA ROWS=3 COLS=74 NAME="POSITION"></TEXTAREA>
+
+<P>2. List all other activitities which you will
+be involved in Fall, Winter or Spring quarter (e.g. a capella, gaieties,
+one acts, "I have to make agar every wednesday night", "I work in the
+city", etc.)
+<br>
+<TEXTAREA ROWS=5 COLS=74 NAME="CONFLICTS">
+</TEXTAREA>
+   
+<P>
+3. List previous theater experience and any experience that somehow
+relates to the  position(s) that you are applying for (e.g. "I got a badge
+in girl scouts for making birdhouses with popsicle sticks" if you want to
+be the set designer):<br>
+<TEXTAREA ROWS=10 COLS=74 NAME="EXPERIENCE">
+</TEXTAREA>
+
+<P>4. Express your love
+for JCS in <b>two</b> parts:</p>
+
+<b>a.</b> Why do you want to work on the show?
+<TEXTAREA ROWS=10 COLS=74 NAME="WHY">
+</TEXTAREA><br><br>
+
+<b>b.</b> What would you do with SPAM(tm) in order to get 
+to work on this show?"
+<TEXTAREA ROWS=10 COLS=74 NAME="SPAM">
+</TEXTAREA>
+
+<p>5. What is your favorite original (i.e. 8 bit) Nintendo game?<br>
+<INPUT TYPE="text" NAME="NINTENDO" SIZE=60>
+
+<p>6. What is your favorite piece of literature?<br>
+<INPUT TYPE="text" NAME="LITERATURE" SIZE=60>
+
+<p>7. What languages do you speak?<br>
+<INPUT TYPE="text" NAME="LANGUAGES" SIZE=60>
+</TEXTAREA>
+
+<p>7a. Why?<br>
+<TEXTAREA ROWS=2 COLS=74 NAME="LANGWHY">
+</TEXTAREA>
+
+<p>8. What do you think of squirrels?<br>
+<TEXTAREA ROWS=2 COLS=74 NAME="SQUIRRELS">
+</TEXTAREA>
+
+<p> and last, but not least...</p>
+
+<p>9. What does the phrase "Mad Max Jesus" mean to you?
+<TEXTAREA ROWS=3 COLS=74 NAME="MADMAX">
+</TEXTAREA>
+
+<p>
+<hr>
+<center>
+<p>When you have completed the form, click on "<b>Submit</b>" below.  Or
+to start over, click on "<b>Reset</b>."<br>
+<INPUT TYPE="submit" VALUE="Submit">
+<INPUT TYPE="reset" VALUE="Reset">
+</center>
+<p>
+<a href="../index.html"><img src="../icons/block-logo-50-gs.gif"
+alt="Ram's Head" align=right></a>
+<br><hr>
+<font size=2>
+This form is processed with <a href="../../../formage/">Formage</a>.
+</font>
+
+</FORMAT>
+
+
+# This defines the way in which the fields from the
+# input form are arranged in the e-mail message that
+# is produced when the input form is submitted.
+
+<FORMAT NAME = MailForm>
+	*** "JCS" STAFF APPLICATION ***
+      submitted on %DATE%
+
+NAME: @FROM@ @LAST@
+YEAR: @YEAR@
+MAJOR: @MAJOR@
+E-MAIL: @EMAIL@
+PHONE: @PHONE@
+
+FAVORITE POST-APOCALYPTIC MOVIE: @MOVIE@
+
+1. POSITION(S) APPLYING FOR:
+@POSITION@
+
+2. CONFLICTS:
+@CONFLICTS@
+
+3. EXPERIENCE:
+@EXPERIENCE@
+
+4. LOVE FOR JCS:
+
+A. WHY I WANT TO WORK ON "JCS":
+@WHY@
+
+B. WHAT I'D DO WITH SPAM TO WORK ON JCS: 
+@SPAM@
+
+5. FAVORITE OLD-SCHOOL NINTENDO GAME:
+@NINTENDO@
+
+6. FAVORITE PIECE OF LITERATURE:
+@LITERATURE@
+
+7. LANGUAGES:
+@LANGUAGES@
+
+7a. WHY:
+@WHYLANG
+
+8. WHAT I THINK OF SQUIRRELS:
+@SQUIRRELS@
+
+9. MAD MAX JESUS MEANS:
+@MADMAX@
+
+</FORMAT>
+
+
+# Here's what the user gets after submitting the form.
+
+<FORMAT NAME=Reply>
+<body bgcolor="black" text="white"></body>
+<a href="../index.html"><img src="../icons/block-logo-50-gs.gif"
+alt="Ram's Head" align=left></a>
+
+<center>
+<br><br>
+<font color="ff0000" face="arial, helvetica"><h1>Thanks @FROM@!</h1></font>
+<br clear=left>
+
+<hr>
+
+<p>Your application has been submitted on %DATE%.
+
+<p><b>What now?</b><br>
+You will be contacted soon to schedule an <b>interview.</b>
+<p>
+<hr>
+</center>
+Back to the Spring Show <a href="index.html">page</a><br>
+Back to the Ram's Head <a href="../index.html">home page</a>
+<p>
+
+</FORMAT>
+
+
